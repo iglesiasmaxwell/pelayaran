@@ -1,5 +1,5 @@
 <?php
-    include_once('fetch-api.php');
+    // include_once('fetch-api.php');
 ?>
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
