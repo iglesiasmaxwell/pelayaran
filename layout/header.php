@@ -35,6 +35,9 @@
                     'space-grotesk': 'Space Grotesk, sans-serif',
                     'merriweather': 'Merriweather, serif',
                     },
+                    screens: {
+                        '4xl': '2450px',
+                    },
                     colors: {
                     'light' : '#D8D8D8',
                     'light-tp' : '#F5F5F5',
@@ -74,3 +77,15 @@
             }
         }
     </script>
+    </head>
+<style>
+    ::-moz-selection {
+        color: #F5F5F5;
+        background: #46595E;
+    }
+
+    ::selection {
+        color: #F5F5F5;
+        background: #46595E;
+    }
+</style>

@@ -43,7 +43,7 @@
         <section class="bg-dark text-light pb-10 block lg:hidden 2xl:block">
             <h1 class="uppercase pt-8 pb-10 text-center font-lexend font-medium text-2xl tracking-widest text-light">Services</h1>
             <div class="flex items-center gap-10">
-                <div class="grid grid-cols-1 2xl:grid-cols-4 justify-center gap-4 2xl:gap-8 mx-4 sm:mx-12 md:mx-24 2xl:mx-auto select-none">
+                <div class="grid grid-cols-1 2xl:grid-cols-2 4xl:grid-cols-4 justify-center gap-4 2xl:gap-10 4xl:gap-8 mx-4 sm:mx-12 md:mx-24 2xl:mx-auto select-none">
                     <div class="group/gallery px-2.5 py-2.5 pb-2 sm:pb-8 bg-gradient-to-b from-white to-whiteblue w-1000px h-full md:h-200px sm:h-250px md:h-300px max-w-full 2xl:max-w-xl rounded shadow-lg">
                         <img class="max-h-full w-full brightness-75 2xl:group-hover/gallery:brightness-100 transition" src="Image/tugboat.jpg" alt="Tugboat">
                         <div class="group justify-center flex items-center">
