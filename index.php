@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     <div class="mx-auto">
-                        <h1 class="uppercase font-merriweather text-4xl md:text-5xl lg:text-6xl 2xl:text-7xl text-dark font-light leading-snug lg:leading-normal 2xl:leading-normal inline-block text-center lg:text-left xl:mr-52"><span class="font-extrabold">Ship</span>your worries away</h1>
+                        <h1 class="uppercase font-merriweather text-4xl md:text-5xl lg:text-6xl 2xl:text-7xl text-dark font-light leading-snug lg:leading-normal 2xl:leading-normal inline-block text-center lg:text-left xl:mr-52"><span class="font-extrabold">Ship </span>your worries away</h1>
                     </div>
                 </div>
             </div>
